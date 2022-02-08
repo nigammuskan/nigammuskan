@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm muskan</h1>
+<h1>About me</h1>
+<p><h4>An Energetic effective and visionary upcoming software engineer who believes that " good enough is never good enough " . Passionate in helping others achieve their potential through ensuring that well-being and integrity are supported by inspiration and curiosity.</h4></p>
 
 - 🌱 I’m currently learning **web designing, frontend**
 
